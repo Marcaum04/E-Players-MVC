@@ -69,3 +69,26 @@ body {
   white-space: nowrap;
   line-height: 60px; /* Vertically center the text there */
 }
+
+/* Tabela */
+thead tr{
+  display: flex;
+  align-items: center;
+  height: 60px;
+  width: 315px;
+  padding: 10px 0px;
+  justify-content: space-between;
+}
+tr{
+  display: flex;
+  align-items: center;
+  height: 60px;
+  width: 315px;
+  padding: 10px 15px;
+  justify-content: space-between;
+}
+
+/* Lixeirinha */
+.lixeira{
+  font-size: 20px;
+}

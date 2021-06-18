@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dev\\Desktop\\E-Players-MVC\\E-Players MVC.csproj": {}
+    "C:\\Users\\Usuario\\Desktop\\Senai\\Exercícios\\E-Players MVC\\E-Players MVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dev\\Desktop\\E-Players-MVC\\E-Players MVC.csproj": {
+    "C:\\Users\\Usuario\\Desktop\\Senai\\Exercícios\\E-Players MVC\\E-Players MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dev\\Desktop\\E-Players-MVC\\E-Players MVC.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Senai\\Exercícios\\E-Players MVC\\E-Players MVC.csproj",
         "projectName": "E-Players MVC",
-        "projectPath": "C:\\Users\\Dev\\Desktop\\E-Players-MVC\\E-Players MVC.csproj",
-        "packagesPath": "C:\\Users\\Dev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dev\\Desktop\\E-Players-MVC\\obj\\",
+        "projectPath": "C:\\Users\\Usuario\\Desktop\\Senai\\Exercícios\\E-Players MVC\\E-Players MVC.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\Desktop\\Senai\\Exercícios\\E-Players MVC\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Dev\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -61,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

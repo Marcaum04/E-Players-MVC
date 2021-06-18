@@ -43,7 +43,7 @@ namespace E_Players_MVC.Models
 
         public void Deletar(int id)
         {
-             List<string> linhas = LerTodasLinhasCSV(CAMINHO);
+            List<string> linhas = LerTodasLinhasCSV(CAMINHO);
             linhas.RemoveAll(x => x.Split(";")[0] == id.ToString());
             ReescreverCSV(CAMINHO, linhas);
         }
