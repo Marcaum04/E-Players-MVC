@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Desktop\\Senai\\Exercícios\\E-Players MVC\\E-Players MVC.csproj": {}
+    "C:\\Users\\Usuario\\Desktop\\Senai\\Exercícios\\E-Players-MVC\\E-Players MVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Desktop\\Senai\\Exercícios\\E-Players MVC\\E-Players MVC.csproj": {
+    "C:\\Users\\Usuario\\Desktop\\Senai\\Exercícios\\E-Players-MVC\\E-Players MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Senai\\Exercícios\\E-Players MVC\\E-Players MVC.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Senai\\Exercícios\\E-Players-MVC\\E-Players MVC.csproj",
         "projectName": "E-Players MVC",
-        "projectPath": "C:\\Users\\Usuario\\Desktop\\Senai\\Exercícios\\E-Players MVC\\E-Players MVC.csproj",
+        "projectPath": "C:\\Users\\Usuario\\Desktop\\Senai\\Exercícios\\E-Players-MVC\\E-Players MVC.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Desktop\\Senai\\Exercícios\\E-Players MVC\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Desktop\\Senai\\Exercícios\\E-Players-MVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"

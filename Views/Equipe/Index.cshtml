@@ -2,20 +2,28 @@
 @{
     ViewData["Title"] = "Equipes";
 }
-<script src="https://kit.fontawesome.com/429ce419a2.js" crossorigin="anonymous"></script>
-<link rel="stylesheet" href="site.css">
 
-<form method="POST" action='@Url.Action("Cadastrar")' enctype="multipart/form-data">
+ <div class="titulo_pagina">
+            <h1>cadastro de @ViewData["Title"]</h1>
+        </div>
+
+<form class="cadastro"  method="POST" action='@Url.Action("Cadastrar")' enctype="multipart/form-data">
+    <div class="campo">
     <label>ID</label>
     <input type="text" name="IdEquipe">
+    </div>
 
+    <div class="campo">
     <label>Nome</label>
     <input type="text" name="Nome">
+    </div>
 
+    <div class="campo">
     <label>Imagem</label>
     <input type="file" name="Imagem">
+    </div>
 
-    <button type="submit">Cadastrar</button>
+    <button class="gradient btn" type="submit">Cadastrar</button>
 
 
 </form>
