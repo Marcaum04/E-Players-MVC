@@ -33,12 +33,11 @@ namespace E_Players_MVC.Controllers
             {
                 HttpContext.Session.SetString("_UserName", logado.Split(";")[1]);
                 return LocalRedirect("~/");
+                Mensagem = "";
             }
-            else
-            {
+   
                 Mensagem = "Dados incorretos, tente novamente...";
                 return LocalRedirect("~/Login");
-            }
 
         }
         
